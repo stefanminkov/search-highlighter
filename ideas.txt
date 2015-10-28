@@ -1,3 +1,2 @@
 Maybe real span support.
-
 Special HitEnum for testing that asserts that you don't go beyond the end.  Lucene uses something like this.
